@@ -1,0 +1,2 @@
+[08-Mar-2019 05:13:34 America/New_York] PHP Notice:  Undefined variable: factory in /home/lucigzib/rentzone.lucianionut.com/database/factories/ModelFactory.php on line 15
+[08-Mar-2019 05:13:34 America/New_York] PHP Fatal error:  Call to a member function define() on null in /home/lucigzib/rentzone.lucianionut.com/database/factories/ModelFactory.php on line 15
